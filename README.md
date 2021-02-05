@@ -2,4 +2,4 @@
 LettCode SQL problems solutions.
 
 # Note
-All solutions is in mysql format.
+All solutions is in MySQL format.
